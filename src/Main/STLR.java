@@ -22,7 +22,7 @@ public class STLR {
 
     public static void main(String[] args) {
         // Path to the STL file
-        String filePath = "D:\\Code\\Graphics\\src\\Assets\\cube-ascii.stl";
+        String filePath = "src/Assets/cube-ascii.stl";
 
         try {
             // Create a 3D framebuffer (RGB)

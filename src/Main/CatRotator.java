@@ -27,7 +27,7 @@ public class CatRotator
     public static void main(String[] args)
     {
         // Path to the STL file containing the 3D model
-        String filePath = "D:\\Code\\Graphics\\src\\Assets\\cube-ascii.stl";
+        String filePath = "src/Assets/cube-ascii.stl";
 
         try
         {

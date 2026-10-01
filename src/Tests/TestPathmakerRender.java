@@ -31,6 +31,6 @@ public class TestPathmakerRender {
             }
         }
 
-        ReadWriteImage.writeImage(framebuffer,"Atest_paths.png");
+        ReadWriteImage.writeImage(framebuffer,"A_Test_Of_Paths.png");
     }
 }
